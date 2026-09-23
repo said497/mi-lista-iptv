@@ -1,19 +1,140 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="PRUEBA",Canal 13
+#EXTINF:0 group-title="General",13 C
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0pm
-
-#EXTINF:-1 group-title="PRUEBA",A&E HD
+#EXTINF:0 group-title="Entretenimiento",A&E HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0mt
-
-#EXTINF:-1 group-title="PRUEBA",AE Mundo
+#EXTINF:0 group-title="Entretenimiento",AE Mundo
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0t2
-
-#EXTINF:-1 group-title="Películas",AMC
+#EXTINF:0 group-title="Peliculas",AMC HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0n2
-
-#EXTINF:-1 group-title="Películas",AXN
+#EXTINF:0 group-title="Latinoamerica",ATV
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sp
+#EXTINF:0 group-title="Peliculas",AXN HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
 http://181.78.79.131:8000/play/a0q0
-
-#EXTINF:-1 group-title="Comedia",DISTRITO COMEDIA
-http://23.237.192.180:23455/live/cyx_4AD4hwdKV0kEiQK7w3VX1J.m3u8
+#EXTINF:0 group-title="Entretenimiento",Adult Swim
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pk
+#EXTINF:0 group-title="Latinoamerica",America TV PY
+#EXTGRP:Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0ss
+#EXTINF:0 group-title="Documentales",Animal Planet
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0po
+#EXTINF:0 group-title="General",Atres Series
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n0
+#EXTINF:0 group-title="Religion",BETHEL TV
+#EXTGRP:Religion
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pn
+#EXTINF:0 group-title="Entretenimiento",Baby First
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sw
+#EXTINF:0 group-title="Colombia",CANAL 1
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0s2
+#EXTINF:0 group-title="Colombia",CANAL INSTITUCIONAL
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0l8
+#EXTINF:0 group-title="Colombia",CARACOL TV HD
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0l0
+#EXTINF:0 group-title="Chile",CHV
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0r0
+#EXTINF:0 group-title="Chile",CNN Chile
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qp
+#EXTINF:0 group-title="Noticias",CNN EspaÃ±ol
+#EXTGRP:Noticias
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p3
+#EXTINF:0 group-title="Chile",Canal 13
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0n4
+#EXTINF:0 group-title="Chile",Canal 24 Horas
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qr
+#EXTINF:0 group-title="Colombia",Canal Caracol
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sb
+#EXTINF:0 group-title="Colombia",Canal RCN
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sc
+#EXTINF:0 group-title="General",Canal TUVES
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0q8
+#EXTINF:0 group-title="General",Canal del Congreso
+#EXTGRP:General
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0se
+#EXTINF:0 group-title="Chile",Capital
+#EXTGRP:Chile
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0sj
+#EXTINF:0 group-title="Entretenimiento",Cartoon Network HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0oz
+#EXTINF:0 group-title="Peliculas",Cinecanal
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pp
+#EXTINF:0 group-title="Colombia",City TV
+#EXTGRP:Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0si
+#EXTINF:0 group-title="Entretenimiento",Comedy Central HD
+#EXTGRP:Entretenimiento
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0mu
+#EXTINF:0 group-title="Infantiles",DHE HD
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qv
+#EXTINF:0 group-title="Peliculas",De Pelicula
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0qb
+#EXTINF:0 group-title="Infantiles",Discovery Kids HD
+#EXTGRP:Infantiles
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p0
+#EXTINF:0 group-title="Documentales",Discovery Science
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0pb
+#EXTINF:0 group-title="Documentales",Discovery Turbo
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000/play/a0p8
+#EXTINF:0 group-title="Documentales",Discovery World HD
+#EXTGRP:Documentales
+#EXTVLCOPT:network-caching=1000
