@@ -1,5 +1,13 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="http://puu.sh/monkP/4502e76205.png" group-title="AZTECA 7", azteca7(Opcion 2)
-
-http://23.237.192.180:23455/live/cyx-B31CBC1540FD82df08C4866E87A7.m3u8
+# EXTM3U
+# EXTINF : 0  group-title = " General " , 13 C
+# EXTGRP : General
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0pm
+# EXTINF : 0  group-title = " Entretenimiento " , A&E HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0mt
+# EXTINF : 0  group-title = " Entretenimiento " , AE Mundo
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0t2
