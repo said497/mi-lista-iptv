@@ -1,0 +1,29 @@
+#EXTM3U
+
+# ===== MEXICO =====
+#EXTINF:-1 group-title="🇲🇽 México",Canal México 1
+PEGA_AQUI_LA_URL_DEL_STREAM
+
+#EXTINF:-1 group-title="🇲🇽 México",Canal México 2
+PEGA_AQUI_LA_URL_DEL_STREAM
+
+# ===== INTERNACIONAL =====
+#EXTINF:-1 group-title="🌎 Internacional",Canal Internacional 1
+PEGA_AQUI_LA_URL_DEL_STREAM
+
+#EXTINF:-1 group-title="🌎 Internacional",Canal Internacional 2
+PEGA_AQUI_LA_URL_DEL_STREAM
+
+# ===== PELÍCULAS =====
+#EXTINF:-1 group-title="🎬 Películas",Película 1
+PEGA_AQUI_LA_URL_DEL_STREAM
+
+#EXTINF:-1 group-title="🎬 Películas",Película 2
+PEGA_AQUI_LA_URL_DEL_STREAM
+
+# ===== SERIES =====
+#EXTINF:-1 group-title="📺 Series",Serie 1
+PEGA_AQUI_LA_URL_DEL_STREAM
+
+#EXTINF:-1 group-title="📺 Series",Serie 2
+PEGA_AQUI_LA_URL_DEL_STREAM
