@@ -8,3 +8,15 @@ http://181.78.79.131:8000/play/a0mt
 
 #EXTINF:-1 group-title="PRUEBA",AE Mundo
 http://181.78.79.131:8000/play/a0t2
+
+# EXTINF : 0  group-title = " Peliculas " , AMC HD
+http://181.78.79.131:8000/play/a0n2
+
+# EXTINF : 0  group-title = " Peliculas " , AXN HD
+http://181.78.79.131:8000/play/a0q0
+
+# EXTINF : 0  group-title = " General " , Serie Atres
+http://181.78.79.131:8000/play/a0n0
+
+# EXTINF : 0  group-title = " Comedia " , Distrito acomedia
+http://23.237.192.180:23455/live/cyx_4AD4hwdKV0kEiQK7w3VX1J.m3u8
