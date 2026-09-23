@@ -1,4 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="PRUEBA",Once.3 Señal Digital
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:-1 group-title="PRUEBA",Canal 13
+http://181.78.79.131:8000/play/a0pm
+
+#EXTINF:-1 group-title="PRUEBA",A&E HD
+http://181.78.79.131:8000/play/a0mt
+
+#EXTINF:-1 group-title="PRUEBA",AE Mundo
+http://181.78.79.131:8000/play/a0t2
