@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:0 group-title="General",13 C
 #EXTGRP:General
 #EXTVLCOPT:network-caching=1000
@@ -114,27 +114,4 @@ http://181.78.79.131:8000/play/a0si
 #EXTINF:0 group-title="Entretenimiento",Comedy Central HD
 #EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0mu
-#EXTINF:0 group-title="Infantiles",DHE HD
-#EXTGRP:Infantiles
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qv
-#EXTINF:0 group-title="Peliculas",De Pelicula
-#EXTGRP:Peliculas
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0qb
-#EXTINF:0 group-title="Infantiles",Discovery Kids HD
-#EXTGRP:Infantiles
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0p0
-#EXTINF:0 group-title="Documentales",Discovery Science
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0pb
-#EXTINF:0 group-title="Documentales",Discovery Turbo
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
-http://181.78.79.131:8000/play/a0p8
-#EXTINF:0 group-title="Documentales",Discovery World HD
-#EXTGRP:Documentales
-#EXTVLCOPT:network-caching=1000
+http://181.78.79.131:8000
