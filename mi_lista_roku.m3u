@@ -1,29 +1,34 @@
 #EXTM3U
 
-# ===== MEXICO =====
-#EXTINF:-1 group-title="🇲🇽 México",Canal México 1
-PEGA_AQUI_LA_URL_DEL_STREAM
+#EXTINF:-1 tvg-logo="http://puu.sh/monkP/4502e76205.png" group-title="Peliculas",Universal (Opcion 2)
+http://usuarios.club/usuarios/src2/UNIVERSAL_CHANNEL/demoUwD/OV0.m3u8
 
-#EXTINF:-1 group-title="🇲🇽 México",Canal México 2
-PEGA_AQUI_LA_URL_DEL_STREAM
+#EXTINF:-1 tvg-logo="http://puu.sh/mVU7r/07c337d6d2.png" group-title="USA",USA: ESPN 1
+http://usuarios.club/usuarios/src5/ESPN1EN/demoUwD/OV0.m3u8
 
-# ===== INTERNACIONAL =====
-#EXTINF:-1 group-title="🌎 Internacional",Canal Internacional 1
-PEGA_AQUI_LA_URL_DEL_STREAM
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGSP/45ab2c58f3.png" group-title="USA",USA: ESPN 2
+http://usuarios.club/usuarios/src5/ESPN2EN/demoUwD/OV0.m3u8
 
-#EXTINF:-1 group-title="🌎 Internacional",Canal Internacional 2
-PEGA_AQUI_LA_URL_DEL_STREAM
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="USA",USA: Fox Sports 1
+http://usuarios.club/usuarios/src5/FoxSports1EN/demoUwD/OV0.m3u8
 
-# ===== PELÍCULAS =====
-#EXTINF:-1 group-title="🎬 Películas",Película 1
-PEGA_AQUI_LA_URL_DEL_STREAM
+#EXTINF:-1 tvg-logo="http://puu.sh/mwe6K/af7e32f4e0.png" group-title="USA",USA: Fox Sports 2
+http://usuarios.club/usuarios/src5/FoxSports2EN/demoUwD/OV0.m3u8
 
-#EXTINF:-1 group-title="🎬 Películas",Película 2
-PEGA_AQUI_LA_URL_DEL_STREAM
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM6o/4cad623961.png" group-title="USA",USA: Hallmark
+http://usuarios.club/usuarios/src5/Hallmark/demoUwD/OV0.m3u8
 
-# ===== SERIES =====
-#EXTINF:-1 group-title="📺 Series",Serie 1
-PEGA_AQUI_LA_URL_DEL_STREAM
+#EXTINF:-1 tvg-logo="http://puu.sh/wXpBG/491f7e6a2e.png" group-title="USA",USA: HBO
+http://usuarios.club/usuarios/src5/HBOEN/demoUwD/OV0.m3u8
 
-#EXTINF:-1 group-title="📺 Series",Serie 2
-PEGA_AQUI_LA_URL_DEL_STREAM
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM9i/c634ff5280.png" group-title="USA",USA: HBO Comedy
+http://usuarios.club/usuarios/src5/HBOComedy/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM6X/529b2473ba.png" group-title="USA",USA: NBC HD
+http://usuarios.club/usuarios/src5/NBCHD/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM7m/18890d1cc3.png" group-title="USA",USA: NBC Sports
+http://usuarios.club/usuarios/src5/NBCSports/demoUwD/OV0.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xuM7I/4552f152f3.png" group-title="USA",USA: NBCSN
+http://usuarios.club/usuarios/src5/NBCSN/demoUwD/OV0.m3u8
